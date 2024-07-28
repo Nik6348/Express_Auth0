@@ -59,7 +59,7 @@ Make sure you have the following installed on your local machine:
    npm run dev
    ```
 
-# Running the Application
+### Running the Application
 
 1.Open your browser and navigate to http://localhost:3000.
 
